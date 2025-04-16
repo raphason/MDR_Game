@@ -1,0 +1,19 @@
+
+Temper System Overview
+----------------------
+- Groupings must be 3–5 adjacent single-digit numbers.
+- Each grouping is evaluated against hidden rules that correspond to one of the Four Tempers:
+    1. Woe
+    2. Dread
+    3. Frolic
+    4. Malice
+
+- Example Temper Rule Ideas:
+    - Woe: All even numbers
+    - Dread: All prime numbers
+    - Frolic: Increasing sequence (e.g., 1, 2, 3)
+    - Malice: All identical numbers
+
+- A correct grouping adds the sum of the group to that Temper's meter.
+- Each bin requires filling all four Tempers to complete.
+- Temper rules are not known to the player initially but are recorded in the Codex once discovered.

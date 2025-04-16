@@ -1,0 +1,22 @@
+
+Compliance Index (CI) System
+----------------------------
+- Ranges from -5 (Autonomy) to +5 (Loyalty).
+- Affects narrative, gameplay rules, item availability, and endgame outcome.
+
+Influence Sources:
+- Tools: Company Tools increase Loyalty.
+- Contraband: Black market items increase Autonomy.
+- Dialogue: Responses during Break Room scenes influence CI.
+- Actions: Refusing tools, skipping upgrades, or avoiding corporate bonuses affect CI.
+
+Threshold Effects:
++5 Loyalty: Bin groupings may be up to 6 numbers, lower token cost.
+-5 Autonomy: Secret Bin unlocked, access to Obscurity Temper.
++3 Loyalty: Access to exclusive Tool sets (e.g., “Senior Refiner’s Stylus”)
+-3 Autonomy: Contraband shop opens (e.g., “Greed Extractor” – tripled Token yield, no scoring)
+
+Endings:
++5 Loyalty → Promotion Ending
+-5 Autonomy → Reintegration Ending
+Other values influence Break Room flavor and Codex entries.

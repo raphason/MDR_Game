@@ -1,0 +1,11 @@
+
+Macrodata Refinement Game - Design Conversation Transcript
+----------------------------------------------------------
+- User began by referencing "Severance" and the idea of a game based on Macrodata Refinement.
+- Discussed integrating mechanics inspired by Balatro.
+- Explored grid-based gameplay with single-digit number clusters and hidden pattern rules.
+- Developed a loop of selecting number groupings to fill Temper meters.
+- Added scoring mechanics, Vending Machine upgrades, and token economy.
+- Introduced Compliance Index (Loyalty vs Autonomy), Break Room dialogues, Contraband effects.
+- Designed the Music Dance Experience and Secret Fifth Bin.
+- Began discussing UI mockups, Codex system, and Refiner character options.

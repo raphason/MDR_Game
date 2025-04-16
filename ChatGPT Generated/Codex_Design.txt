@@ -1,0 +1,16 @@
+
+Codex Design
+------------
+- Permanent run-spanning archive.
+- Entries include:
+    1. Discovered Temper Rules
+    2. Tool & Voucher effects
+    3. Music Dance modifiers
+    4. Dialogue outcomes and CI effects
+    5. Refiners: stats, quotes, endings
+    6. Lore entries (corporate history, Founder's quotes)
+    7. Endings unlocked (Promotion, Reintegration, Secret Paths)
+
+- Categories are searchable.
+- Certain Contraband can "unlock" hidden Codex pages.
+- Some Codex lore may only be readable with low CI or high Autonomy.

@@ -1,0 +1,15 @@
+
+Music Dance Experience (MDE)
+----------------------------
+- Triggered at 75% File Completion (after 4 bins).
+- Player selects from a randomized set of 4 genres (from 16 total).
+- Each provides a buff or modifier through the final bins.
+
+Examples:
+- Reckless Disco: +3 extra groupings, Autonomy +2
+- Defiant Jazz: All Temper scores fill 20% at start of Bin 5
+- Lofty Orchestra: All Temper scoring is increased by 1.5x
+- Spooky Ambient: Grid reshuffles every 2 turns
+- Tearful Emo: All Tokens earned are doubled but CI shifts toward Autonomy
+
+Mood, lighting, and music track change accordingly for dramatic gameplay tone shift.

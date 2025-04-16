@@ -1,0 +1,1 @@
+MAX_DIGIT = 9

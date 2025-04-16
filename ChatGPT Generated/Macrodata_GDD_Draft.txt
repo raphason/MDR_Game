@@ -1,0 +1,49 @@
+
+Macrodata Refinement - Game Design Document (Draft)
+---------------------------------------------------
+
+Core Gameplay Loop:
+- Grid (7x6) of single-digit numbers.
+- Player selects adjacent groupings (3–5 numbers) attempting to match hidden Temper rules.
+- Groupings score points if they match a rule.
+- Four Tempers per bin; all meters must be filled to complete a bin.
+- Limited number of groupings per bin (e.g., 10); running out = fail.
+- Completing a bin resets groupings and increases difficulty.
+
+Scoring & Economy:
+- Score = sum of valid numbers in a group.
+- Earn Tokens based on success.
+- Tokens spent in Break Room Vending Machine for Tools, Vouchers, Contraband.
+- Tokens do not persist between runs.
+
+Compliance Index (CI):
+- Scale from Loyalty to Autonomy.
+- Company items push Loyalty, Contraband pushes Autonomy.
+- Affects available items, dialogue, and endings.
+- High Loyalty: Promotion Ending.
+- High Autonomy: Reintegration Ending.
+
+Break Room:
+- Dialogue affects CI.
+- Vending Machine purchase phase.
+- Music Dance Experience triggers at 75% (Bin 4 complete), adds random modifier.
+
+Secret Fifth Bin:
+- Requires specific CI or Contraband.
+- Introduces negative numbers, 0s, redacted values (*).
+- Adds 5th hidden Temper: Obscurity.
+- Rewards permanent cosmetics or unlocks.
+
+Codex:
+- Builds over runs with discovered rules, item effects, MDE outcomes.
+- Unlocks new Refiners and lore.
+
+Refiners:
+- Start with Mark S., Helly R., Dylan G., Irving B.
+- Others unlocked via milestones or endings.
+
+UI Plans:
+- Vending Machine screen: categories, random pulls, rarity frames.
+- Codex: tabs for Tempers, Items, Refiners, Lore.
+- Refiner select: stats, perks, loyalty/autonomy tilt.
+- Music Dance Experience: choose from themed music genres, unknown effects.

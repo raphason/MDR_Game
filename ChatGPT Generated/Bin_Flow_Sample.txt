@@ -1,0 +1,15 @@
+
+Sample Bin Completion Flow
+--------------------------
+1. Grid Appears (7x6 numbers).
+2. Player selects a group: positions b, d, e → [2, 3, 5].
+3. Group matches the Dread rule (all prime numbers).
+4. Group score = 2 + 3 + 5 = 10 points added to Dread meter.
+5. 1 Token earned. Slight increase to Loyalty (using company-approved rule).
+6. Grid refills with 3 new numbers.
+7. After 10 groupings OR filling all Temper meters, Bin 1 completes.
+8. Break Room triggered:
+    - Dialogue choice made: “Thank you for the opportunity” → Loyalty +1.
+    - Vending Machine opened: 3 pull options (Tools, Vouchers, Contraband).
+9. Refiner receives Tool: “Reflective Stylus” (doubles score of Frolic matches).
+10. Begin next bin with increased difficulty (Temper thresholds x1.3).

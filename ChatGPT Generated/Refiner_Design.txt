@@ -1,0 +1,19 @@
+
+Refiner Design
+--------------
+Default Squad:
+- Mark S.: Balanced stats, no modifiers.
+- Helly R.: Starts with Autonomy +1, earns +1 Token per successful match.
+- Dylan G.: Loyalty +1, +1 to max groupings per Bin.
+- Irving B.: Codex unlocks twice as fast.
+
+Unlockables:
+- Harmony Cobel: Loyalty +3, extra Vending Machine pull, cannot access Contraband.
+- Petey: Autonomy +3, only 8 groupings per bin, 2x Token gain.
+- Ms. Casey: Begins with random Vouchers, triggers special Codex entries.
+- Burt G.: Temper Tool cooldown reduced by 1, starts each bin with 1 rule revealed.
+
+Each Refiner has:
+- Unique desk design (visual flair)
+- Voice lines / quotes
+- A signature Tool or quirk

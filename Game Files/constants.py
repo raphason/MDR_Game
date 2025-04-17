@@ -1,1 +1,3 @@
 MAX_DIGIT = 9
+ROWS = 6
+COLS = 7

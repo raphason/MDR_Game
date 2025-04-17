@@ -12,8 +12,15 @@ class Grid:
         return [Number(pos) for pos in range(self.rows* self.cols)]
     
     def display(self):
+        top_row = "X | "
+        second_row = "-   "
+        for i in range(self.cols):
+            top_row += str(i) + "  "
+            second_row += "-  "
+        print(top_row)
+        print(second_row)
         for i in range(self.rows):
-            current_row = ""
+            current_row = str(i) + " | "
             for j in range(self.cols):
                 current_row += str(self.cells[i * self.cols + j].value) + "  "
             print(current_row)

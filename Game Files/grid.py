@@ -9,7 +9,7 @@ class Grid:
         self.cells = self.generate_grid()
 
     def generate_grid(self):
-        return [Number() for _ in range(self.rows * self.cols)]
+        return [Number(x, y) for x in range(self.rows) for y in range(self.cols)]
     
     def display(self):
         for i in range(self.rows):
@@ -17,6 +17,3 @@ class Grid:
             for j in range(self.cols):
                 current_row += str(self.cells[i * self.cols + j].value) + "  "
             print(current_row)
-
-grid = Grid()
-grid.display()

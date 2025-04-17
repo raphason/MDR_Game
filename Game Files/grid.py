@@ -1,4 +1,5 @@
 import random
+from number import Number
 from constants import MAX_DIGIT
 
 class Grid:
@@ -8,13 +9,13 @@ class Grid:
         self.cells = self.generate_grid()
 
     def generate_grid(self):
-        return [[random.randint(0, MAX_DIGIT) for _ in range(self.cols)] for _ in range(self.rows)]
+        return [Number() for _ in range(self.rows * self.cols)]
     
     def display(self):
         for i in range(self.rows):
             current_row = ""
             for j in range(self.cols):
-                current_row += str(self.cells[i][j]) + "  "
+                current_row += str(self.cells[i * self.cols + j].value) + "  "
             print(current_row)
 
 grid = Grid()
